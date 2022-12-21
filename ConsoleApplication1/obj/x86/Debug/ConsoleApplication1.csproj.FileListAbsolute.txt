@@ -1,0 +1,4 @@
+c:\users\sam\documents\visual studio 2010\Projects\prime numder\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+c:\users\sam\documents\visual studio 2010\Projects\prime numder\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+c:\users\sam\documents\visual studio 2010\Projects\prime numder\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.exe
+c:\users\sam\documents\visual studio 2010\Projects\prime numder\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.pdb
